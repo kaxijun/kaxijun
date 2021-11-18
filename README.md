@@ -7,7 +7,7 @@
 <p>
 
 
-[![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dsyy11cn)](https://www.zhihu.com/people/kaxijun)
+[![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Drobust)](https://www.zhihu.com/people/kaxijun)
 [![Juejin](https://img.shields.io/badge/juejin-Robust-1e80ff?logo=bytedance)](https://juejin.cn/user/1398234521013304)
 [![Github Stars](https://img.shields.io/github/stars/lzw1445?color=faf408&label=github%20stars&logo=github)](https://github.com/lzw1445)
 
