@@ -18,8 +18,6 @@
 
 ## Introduction :raised_hands:
 
-Student of [@CTGU](https://www.ctgu.edu.cn). :school:
-
 Major in Software Engineering. :man_technologist:
 
 I love open source spirit. :heart:
